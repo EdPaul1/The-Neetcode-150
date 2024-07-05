@@ -15,3 +15,10 @@ var containsDuplicate = function(nums) {
         return true;
     }
 };
+
+// Python
+// newSet = set(nums)
+// if length(numSet) != length(nums):
+//     return True
+// else:
+//     return False
